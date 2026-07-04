@@ -87,7 +87,7 @@ Data is retrieved dynamically whenever a matchup is analyzed.
 Clone the repository.
 
 ```r
-git clone https://github.com/yourusername/hoops-explorer.git
+git clone https://github.com/kranthi98/wnba-nba-analyzer.git
 ```
 
 Install packages.
@@ -121,17 +121,7 @@ shiny::runApp()
 
 ---
 
-## Screenshots
 
-You can add screenshots here.
-
-```
-images/
-    dashboard.png
-    correlation_heatmap.png
-```
-
----
 
 ## Roadmap
 
